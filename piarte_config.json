@@ -1,6 +1,9 @@
 {
-    "BannerAd": "adunit-4794a4902b7fce93",
-    "VideoAd": "adunit-fa521cb0887aa262",
+    "BannerAd": "adunit-4794a4902b7fce93",//"adunit-59167580c6ec06cf",
+    "VideoAd": "adunit-fa521cb0887aa262",//"adunit-5aed15d9b5d79371",
     "shareTitle": "一起来玩呀 ！！！",
-    "sharePng": "https://raw.githubusercontent.com/linyuan66/PZ.txt/master/role3.png"
+    "sharePng": "https://raw.githubusercontent.com/linyuan66/PZ.txt/master/role3.png",
+    "moreGameImgUrl": "https://raw.githubusercontent.com/linyuan66/PZ.txt/master/role3.png",
+    "moreGameID": "wxedec3ff2508aafa4",
+    "moreGamePath": "/tc_wishes/pages/app/app"
 }
