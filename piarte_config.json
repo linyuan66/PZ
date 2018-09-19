@@ -1,9 +1,35 @@
 {
     "BannerAd": "adunit-4794a4902b7fce93",
     "VideoAd": "adunit-fa521cb0887aa262",
-    "shareTitle": "一起来玩呀 ！！！",
-    "sharePng": "https://raw.githubusercontent.com/linyuan66/PZ.txt/master/role3.png",
-    "moreGameImgUrl": "https://raw.githubusercontent.com/linyuan66/PZ.txt/master/role3.png",
-    "moreGameID": "wxedec3ff2508aafa4",
-    "moreGamePath": "/tc_wishes/pages/app/app"
+    "shareGroupOpen": "false",
+    "shareList": [
+        {
+            "ShareTitle": "你能守护我多久？",
+            "ShareImg": "https://raw.githubusercontent.com/linyuan66/PZ.txt/master/more.png"
+        },
+        {
+            "ShareTitle": "你愿意做我的守护天使吗？",
+            "ShareImg": "https://raw.githubusercontent.com/linyuan66/PZ.txt/master/role3.png"
+        },
+        {
+            "ShareTitle": "帮我一下，我要守护她【他】一生一世！",
+            "ShareImg": "https://raw.githubusercontent.com/linyuan66/PZ.txt/master/more.png"
+        },
+        {
+            "ShareTitle": "我都坚持15秒了，帮帮我 求你了......",
+            "ShareImg": "https://raw.githubusercontent.com/linyuan66/PZ.txt/master/role3.png"
+        }
+    ],
+    "moreGameList": [
+        {
+            "url": "https://raw.githubusercontent.com/linyuan66/PZ.txt/master/role3.png",
+            "appid": "wxedec3ff2508aafa4",
+            "path": "/tc_wishes/pages/app/app"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/linyuan66/PZ.txt/master/role3.png",
+            "appid": "wxedec3ff2508aafa4",
+            "path": "/tc_wishes/pages/app/app"
+        }
+    ]
 }
