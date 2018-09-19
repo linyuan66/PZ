@@ -22,14 +22,10 @@
     ],
     "moreGameList": [
         {
-            "url": "https://raw.githubusercontent.com/linyuan66/PZ.txt/master/role3.png",
+            "url": "https://raw.githubusercontent.com/linyuan66/PZ.txt/master/more.png",
             "appid": "wxedec3ff2508aafa4",
             "path": "/tc_wishes/pages/app/app"
-        },
-        {
-            "url": "https://raw.githubusercontent.com/linyuan66/PZ.txt/master/role3.png",
-            "appid": "wxedec3ff2508aafa4",
-            "path": "/tc_wishes/pages/app/app"
+            
         }
     ]
 }
